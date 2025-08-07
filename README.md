@@ -32,7 +32,8 @@
 ### 📜 Certifications
 
 - [x] EC-Council Certified (Android Bug Bounty Program)  
-- [x] Offenso Webinar - Master Certification
+- [x] IBM Certified Fundamentals
+- [x]Cisco - Introduction to Cybersecurity 
 - [ ] Comptia Pentest+ (Planned)
 - [ ] OSCP (Future Goal)  
 

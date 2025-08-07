@@ -33,7 +33,7 @@
 
 - [x] EC-Council Certified (Android Bug Bounty Program)  
 - [x] IBM Certified Fundamentals
-- [x]Cisco - Introduction to Cybersecurity 
+- [x] Cisco - Introduction to Cybersecurity 
 - [ ] Comptia Pentest+ (Planned)
 - [ ] OSCP (Future Goal)  
 

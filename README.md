@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyan V</h1>
-<h3 align="center">Cybersecurity Researcher | Ethical Hacker</h3>
+<h3 align="center">Cybersecurity Researcher </h3>
 
 ---
 

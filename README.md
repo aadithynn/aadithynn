@@ -57,7 +57,6 @@
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/adithyan-v-45b089296/
-- 🧑‍💻 GitHub: https://github.com/aadithynn
 - 📧 Email: adithyanv826@gmail.com
 
 ---

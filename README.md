@@ -4,7 +4,6 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Student (IGNOU)
 - 🛡️ Advanced Diploma in Cybersecurity – Offenso Hackers Academy
 - 🔍 Hands-on in **Web Security, API Security & Pentesting**
 - ⚡ I learn by **building labs and breaking systems**

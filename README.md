@@ -1,65 +1,65 @@
-<h1 align="center">Hi 👋, I'm Adithyan V</h1>
-<h3 align="center">Cybersecurity Researcher </h3>
+# 👋 Hi, I'm Adithyan
+
+Cybersecurity Practitioner | Ethical Hacking | Web & Network Security  
+📍 Kerala, India  
 
 ---
 
 ## 🚀 About Me
-- 🛡️ Advanced Diploma in Cybersecurity – Offenso Hackers Academy
-- 🔍 Hands-on in **Web Security, API Security & Pentesting**
-- ⚡ I learn by **building labs and breaking systems**
+
+I work on securing systems by identifying vulnerabilities and understanding attack techniques.  
+My focus areas include web application security, network security, cloud environments, and emerging areas like AI security.
+
+I build projects, solve security labs, and practice real-world attack simulations to strengthen my skills.
 
 ---
 
-## 🧠 Skills
+## 🛠️ Skills
 
-### 🔹 Security Tools
-`Burp Suite` `Nmap` `Metasploit` `Wireshark` `Postman`
+- 💻 Networking (TCP/IP, Subnetting)
+- 🐧 Linux (Kali Linux, Linux Mint)
+- 🔐 Security Concepts (CIA Triad, Threat Analysis)
+- 🌐 Web Security (OWASP Top 10)
+- ⚙️ Tools: Nmap, Wireshark, Burp Suite
+- 🧠 Problem Solving & Analytical Thinking
 
-### 🔹 Offensive Security
-`Web App Pentesting` `API Testing` `Active Directory Attacks` `Android Pentesting`
+---
 
-### 🔹 Defensive Security
-`SIEM (Splunk)` `Wazuh (EDR)` `Log Analysis` `Threat Detection`
+## 📚 Experience & Practice
 
-### 🔹 Languages & Platforms
-`Python` `Bash` `Linux (Kali)` `Windows`
+- Completed multiple levels in OverTheWire Bandit (CTF)
+- Solved web security labs (PortSwigger)
+- Performed hands-on enumeration and basic penetration testing tasks
+- Practiced Linux-based security environments
 
 ---
 
 ## 🧪 Projects
 
-### 📡 AirSnoop (Flagship)
-- Wi-Fi Attack Detection Device  
-- Detects: Rogue AP, Deauth, Evil Twin  
-- Tech: Python, Raspberry Pi, Scapy  
+### 🔍 AirSnoop – Wi-Fi Attack Detection Device
+- Detects suspicious Wi-Fi activities in real time
+- Combines hardware and software for attack detection
+- Focused on identifying common wireless attack patterns
+
 
 ---
 
-### 🔎 Splunk SIEM Lab
-- Centralized log monitoring  
-- Custom dashboards + alerts  
+## 🏆 Work Highlights
+
+- Hands-on experience with cybersecurity labs and challenges
+- Built and tested security-focused projects
+- Continuous practical exposure to penetration testing workflows
 
 ---
 
-### 🛡️ Wazuh EDR Setup
-- Endpoint monitoring  
-- File integrity & threat detection  
+## 📫 Contact
 
----
-
-## 📜 Certifications
-- ✅ CTIGA  
-- ✅ Threat Intelligence Analyst  
-- ✅ CCEP  
-- 🔄 CompTIA Security+ (In Progress)
-
----
-
-## 🌐 Connect With Me
+- 📧 Email: adithyanv826@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/adithyan-v-45b089296/
-- 📧 Email: adithyanv826@gmail.com
+- 🌐 Portfolio: https://aadithynn.github.io/adithyan_portfolio/
 
 ---
 
-## ⚡ Quote
-> "I don't just study security — I break things to understand them."
+## ⚡ Note
+
+Focused on breaking systems to understand them — and securing them better.
